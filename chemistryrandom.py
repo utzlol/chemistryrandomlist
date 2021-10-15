@@ -1,6 +1,6 @@
 import json, requests
 
-source = requests.get("https://raw.githubusercontent.com/Bowserinator/Periodic-Table-JSON/master/PeriodicTableJSON.json")
+source = requests.get("https://raw.githubusercontent.com/utzlol/chemistryrandomlist/main/elementsdatabase.json")
 source = source.json()
 
 while True:
