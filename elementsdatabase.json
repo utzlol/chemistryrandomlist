@@ -1,6 +1,6 @@
 {
     "elements": [
-			{'name': 'Hydrogen', 'symbol': 'H', 'shells': [1], 'electron_configuration': '1s1', 'electron_configuration_semantic': '1s1'},
-			{'name': 'Helium', 'symbol': 'He', 'shells': [2], 'electron_configuration': '1s2', 'electron_configuration_semantic': '1s2'}
+			{'name': 'Hydrogen', 'symbol': 'H', 'shells': '[1]', 'electron_configuration': '1s1', 'electron_configuration_semantic': '1s1'},
+			{'name': 'Helium', 'symbol': 'He', 'shells': '[2]', 'electron_configuration': '1s2', 'electron_configuration_semantic': '1s2'}
 		]
 }
