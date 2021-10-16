@@ -7,7 +7,7 @@ url = url['elements']
 
 num = 0
 
-file = open('editelement.json','a')
+file = open('elementsdatabase.json','a')
 
 while True:
 	urlch = url[num]
