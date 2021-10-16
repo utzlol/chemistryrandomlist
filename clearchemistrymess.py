@@ -5,6 +5,10 @@ url = url.json()
 
 url = url['elements']
 
+clear = open('elementsdatabase.json'.'w+')
+clear.write('')
+clear.close()
+
 num = 0
 
 file = open('elementsdatabase.json','a')
