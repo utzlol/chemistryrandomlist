@@ -1,4 +1,7 @@
 import os
 
-os.system('python clearchemistrymess.py')
-os.system('python clearfinishchemistry.py')
+try:
+  os.system('python clearchemistrymess.py')
+  os.system('python clearfinishchemistry.py')
+except:
+  print('Finish')
