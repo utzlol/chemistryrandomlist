@@ -5,7 +5,7 @@ url = url.json()
 
 url = url['elements']
 
-clear = open('elementsdatabase.json'.'w+')
+clear = open('elementsdatabase.json','w+')
 clear.write('')
 clear.close()
 
